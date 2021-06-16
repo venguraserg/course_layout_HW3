@@ -43,9 +43,14 @@ body {
 
   min-height: 100vh;
 
-  color: #fff;
+  color: rgb(255, 255, 255);
 
   background-color: #070217;
 }
+/* .img_logo{
+  display: fill;
+  fill: rgb(197, 118, 118);
+
+} */
  
 

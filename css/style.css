@@ -46,14 +46,33 @@ body {
   color: rgb(255, 255, 255);
 
   background-color: #070217;
-  
+
 }
 .img-logo{
   display: block;
   margin-bottom: 50px;
 }
 .index-link{
-  margin-right: 100px;
+  display: inline-block;
+  margin-bottom: 50px;
+  padding: 24px 49px;
 
 }
+.index-link a:not(:last-child){
+  margin-right: 25px;
+}
 
+.container{
+  margin: 0 auto;
+padding: 80px 0;
+width: 1170px;
+}
+.container p{
+  padding: 0px 500px 0px 0px;
+}
+.box-1{
+  display: inline-block;
+  background-color: gray;
+  padding: 0px 20px;
+  border-radius: 20px;
+}
